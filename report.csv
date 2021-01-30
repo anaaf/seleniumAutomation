@@ -1,0 +1,26 @@
+TestCaseID,Result,Status
+TC1,,
+,login passed,
+,,passed
+TC2,,
+,login passed,
+,logout passed,
+,,passed
+TC3,,
+,wrong email passed,
+,,passed
+TC4,,
+,wrong password passed,
+,,passed
+TC5,,
+,login passed,
+,profile open passed,
+,,passed
+TC6,,
+,login passed,
+,posting test passed,
+,,passed
+TC7,,
+,login passed,
+,message send passed,
+,,passed
